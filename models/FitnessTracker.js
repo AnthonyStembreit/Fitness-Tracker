@@ -7,8 +7,9 @@ const Excercises = new Schema ({
         default: Date.now
     },
     type:{
-        type: Boolean,
-        //required: true
+        type: String,
+        trim: true,
+        required: "String is Required"
     },
     name:{
         type: String,
