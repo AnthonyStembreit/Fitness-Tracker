@@ -18,3 +18,7 @@ User is prompted to create a work out and can add any number of exercises in eit
 ## Questions?
 * [AnthonyStembreit](https://github.com/AnthonyStembreit)
 * stembreit@gmail.com
+
+![Screen Shot 2020-10-08 at 12 27 59 PM](https://user-images.githubusercontent.com/64037800/95493573-3f659900-0962-11eb-8017-d9cbf21b4c51.png)
+![Screen Shot 2020-10-08 at 12 26 10 PM](https://user-images.githubusercontent.com/64037800/95493576-3ffe2f80-0962-11eb-8b9b-d06d890d07d6.png)
+![Screen Shot 2020-10-08 at 12 26 55 PM](https://user-images.githubusercontent.com/64037800/95493577-4096c600-0962-11eb-8978-ef97fa1984f1.png)
